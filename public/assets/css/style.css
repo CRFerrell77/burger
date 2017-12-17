@@ -1,0 +1,82 @@
+body {
+    font-family: 'Baloo Tamma', cursive;
+    font-size: 15px;
+    background-color: #998F83;
+}
+
+.center{
+    text-align: center;
+}
+
+.lefty{
+    text-align: left;
+}
+
+.buttonMatch {
+    padding-top: 10px;
+    color: white;
+    background-color: lightseagreen;
+}
+
+.btnMatch {
+    color: white;
+    background-color: lightseagreen;
+}
+
+.btnMatch:hover {
+    color: tomato;
+    background-color: lightseagreen;
+}
+
+.btnMatch:clicked {
+    color: white;
+    font-family: 'Baloo Tamma', cursive;
+}
+
+img{
+    width: 200px;
+    margin: 5px;
+}
+
+#results{
+    display: block;
+}
+
+.hideData{
+    display: block;
+    display: none;
+}
+
+#map{
+    height: 300px;
+    width: 100%;
+}
+
+#chartContainer {
+    font-family: 'Baloo Tamma', cursive;
+    height: 270px; 
+    width: 50%;
+}
+
+#foot {
+    color: #d3d3d3 ;
+    background-image: unset;
+    height: 75px;
+    background-color: #666666 ;
+    text-align: center;
+}
+
+#bar {
+    background-color: lightseagreen ;
+    height: 5px;
+    margin-bottom: 20px;
+}
+
+#disclaimer {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+.animalName{
+    width: 200px;
+    margin: 5px;
+}
